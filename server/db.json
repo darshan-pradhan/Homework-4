@@ -1,0 +1,51 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Do Laundry",
+      "description": "Wash, dry, and fold",
+      "author": "testuser",
+      "complete": false,
+      "dateCompleted": null
+    },
+    {
+      "id": 2,
+      "title": "Pay Bills",
+      "description": "Car, Electric, Gas",
+      "author": "testuser",
+      "complete": false,
+      "dateCompleted": null
+    },
+    {
+      "title": "Play Soccer",
+      "description": "Wish Field at 10am",
+      "author": "testuser",
+      "complete": false,
+      "dateCreated": "Wed Jun 08 2022 18:36:44 GMT-0500 (Central Daylight Time)",
+      "dateCompleted": null,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "testuser",
+      "password": "badpassword"
+    },
+    {
+      "id": 2,
+      "username": "testuser2",
+      "password": "badpassword2"
+    },
+    {
+      "username": "darshan",
+      "password": "bad",
+      "id": 3
+    },
+    {
+      "username": "testuser3",
+      "password": "badpassword3",
+      "id": 4
+    }
+  ]
+}
